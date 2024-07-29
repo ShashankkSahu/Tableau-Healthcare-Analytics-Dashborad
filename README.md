@@ -5,21 +5,21 @@
 This Tableau Healthcare Dashboard is designed to provide a detailed analysis of various health metrics for a fictional healthcare dataset. The dashboard utilizes Tableau, a powerful data visualization tool, to offer insights into key metrics such as diabetic vs. non-diabetic status, blood pressure categories, BMI distribution, and health factors by age group.
 
 ## Features
-### Diabetic/Non-diabetic Distribution
--- Representation of the proportion of diabetic vs. non-diabetic patients.
-Insights into the overall health distribution concerning diabetes.
-### Blood Pressure Categories
--- Visualization of patients categorized by blood pressure levels (elevated, normal, high, low).
--- Helps identify the prevalence of different blood pressure conditions.
-### Patient Distribution by Body Mass Index (BMI)
--- Breakdown of patients into categories such as underweight, overweight, obese, and healthy weight.
--- Provides a clear understanding of BMI distribution across the patient population.
-### Health Factors by Age Group
--- Analysis of key health factors such as average BMI, glucose levels, insulin levels, and skin thickness by age group.
--- Offers insights into how these health factors vary with age.
-### Diabetic Patients with High/Low Blood Pressure Breakdown
--- Detailed breakdown of diabetic patients with high or low blood pressure.
--- Enables targeted analysis of specific health conditions within the diabetic population.
+### 1. Diabetic/Non-diabetic Distribution
+- Representation of the proportion of diabetic vs. non-diabetic patients.
+- Insights into the overall health distribution concerning diabetes.
+### 2.Blood Pressure Categories
+- Visualization of patients categorized by blood pressure levels (elevated, normal, high, low).
+- Helps identify the prevalence of different blood pressure conditions.
+### 3.Patient Distribution by Body Mass Index (BMI)
+- Breakdown of patients into categories such as underweight, overweight, obese, and healthy weight.
+- Provides a clear understanding of BMI distribution across the patient population.
+### 4.Health Factors by Age Group
+- Analysis of key health factors such as average BMI, glucose levels, insulin levels, and skin thickness by age group.
+- Offers insights into how these health factors vary with age.
+### 5.Diabetic Patients with High/Low Blood Pressure Breakdown
+- Detailed breakdown of diabetic patients with high or low blood pressure.
+- Enables targeted analysis of specific health conditions within the diabetic population.
 ## Data Source
 The dashboard is powered by a fictional healthcare dataset, designed for educational and practice purposes. The dataset includes information about patients' health metrics, including BMI, glucose, insulin, skin thickness, and blood pressure.
 
