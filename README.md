@@ -1,2 +1,2 @@
 # Tableau-Healthcare-Analytics-Dashboard-Overview
-![Superstore Dashboard](https://github.com/vn33/Superstore-Sales-Dashboard---Tableau/blob/master/Dashboard%20image.jpg)
+![HealthCare Dashboard](https://github.com/ShashankkSahu/Tableau-Healthcare-Analytics-Dashborad/blob/main/Screenshot%20(47).png)
